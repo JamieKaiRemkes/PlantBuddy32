@@ -1,16 +1,6 @@
 # PlantBuddy32
 Plant monitoring system with camera, watering system, air and soil sensors.
 
-<!-- ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project to a production environment.
-
-### Prerequisites
-
-Before we start let's make sure you have the correct software installed.
-
-Install [Node js](https://nodejs.org/en/) -->
-
 ### Installing
 
 Follow the steps below to get the project installed and running on your machine.

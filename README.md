@@ -7,13 +7,21 @@ Follow the steps below to get the project installed and running on your machine.
 
 Clone the repo
 
-```
+```sh
 git clone https://github.com/JamieKaiRemkes/PlantBuddy32.git PlantBuddy32
 ```
 
 Change folder
-```
+```sh
 cd PlantBuddy32
+```
+
+Add your wifi cridentials
+Add a file called wifikeys.h to to src folder with the following code
+```h
+#include <Arduino.h>
+const char *ssid = "NetworkName";	    // Put your SSID here
+const char *password = "NetworkPass";   // Put your PASSWORD hereç
 ```
 
 ## Authors

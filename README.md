@@ -21,7 +21,7 @@ Add a file called wifikeys.h to to src folder with the following code
 ```h
 #include <Arduino.h>
 const char *ssid = "NetworkName";	    // Put your SSID here
-const char *password = "NetworkPass";   // Put your PASSWORD hereç
+const char *password = "NetworkPass";   // Put your PASSWORD here
 ```
 
 ## Authors
